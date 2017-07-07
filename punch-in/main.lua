@@ -8,7 +8,7 @@ end
 
 for var = 1,3 do
 	runApp('com.alibaba.android.rimet');
-	mSleep(10000);
+	mSleep(30000);
 	closeApp('com.alibaba.android.rimet');
 	notify()
 	mSleep(2000);
