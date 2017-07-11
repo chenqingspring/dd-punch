@@ -11,6 +11,13 @@ function notify()
   end
 end
 
+flag = deviceIsLock();
+
+if flag ~= 0 then
+    unlockDevice();
+    mSleep(1000);
+end
+
 for var = 1,3 do
   init(0);
   runApp('com.alibaba.android.rimet');
