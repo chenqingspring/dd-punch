@@ -5,12 +5,21 @@ function notify()
   end
 end
 
-flag = deviceIsLock();
+function shake()
+  shakeDevice(0,0，-3，3000)
+  mSleep(3000);
+end
 
-if flag ~= 0 then
+function unlock()
+  flag = deviceIsLock();
+  if flag ~= 0 then
     unlockDevice();
     mSleep(1000);
+  end
 end
+
+shake();
+unlock();
 
 for var = 1,3 do
 	runApp('com.alibaba.android.rimet');

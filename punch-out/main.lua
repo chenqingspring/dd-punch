@@ -11,15 +11,23 @@ function notify()
   end
 end
 
-flag = deviceIsLock();
-
-if flag ~= 0 then
-    unlockDevice();
-    mSleep(1000);
+function shake()
+  shakeDevice(0,0，-3，3000)
+  mSleep(3000);
 end
 
+function unlock()
+  flag = deviceIsLock();
+  if flag ~= 0 then
+    unlockDevice();
+    mSleep(1000);
+  end
+end
+
+shake();
+unlock();
+
 for var = 1,3 do
-  init(0);
   runApp('com.alibaba.android.rimet');
   setScreenScale(true, 720, 1280);
   mSleep(10000);
