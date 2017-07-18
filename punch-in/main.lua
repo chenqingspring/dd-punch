@@ -6,8 +6,11 @@ function notify()
 end
 
 function shake()
-  shakeDevice(0,0,-3,3000);
-  mSleep(3000);
+  types = getDeviceType();
+  if types ~= 3 and types ~= 4 then
+    shakeDevice(0,0,-3,3000);
+    mSleep(3000);
+  end
 end
 
 function unlock()
