@@ -26,7 +26,7 @@
 
 * 上班打卡
 
-![上班打卡二维码](./punch-in/qrcode.png)
+![上班打卡二维码](./punch-in/qrcode.png )
 
 * 下班打卡
 
@@ -34,9 +34,8 @@
 
 
 ### 真相
-
-![打卡](./punch1.png)
-![打卡](./punch2.png)
+<img src="./punch1.png" height="500">
+<img src="./punch2.png" height="500">
 
 ### 已测试软件版本
 
