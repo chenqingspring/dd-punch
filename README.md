@@ -61,3 +61,4 @@
 * 获取『考勤』按钮坐标
 * 获取『上/下班打卡』按钮坐标
 * 替换脚本里的 `findMultiColorInRegionFuzzy` 方法对应的x和y坐标的值
+* 如有问题，请开issue
