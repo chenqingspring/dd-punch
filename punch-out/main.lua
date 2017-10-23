@@ -27,6 +27,17 @@ function unlock()
   end
 end
 
+function moveDown(x, y1, y2)
+  for var = 1,3 do
+    touchDown(x, y1);
+    mSleep(30);
+    touchMove(x, y2);
+    mSleep(30);
+    touchUp(x, y2);
+    mSleep(500)
+  end
+end
+
 shake();
 unlock();
 
@@ -44,7 +55,13 @@ for var = 1,3 do
   else
     click(93,976);
   end
+
   mSleep(20000);
+
+  moveDown(150, 500, 300)
+  
+  mSleep(2000);
+
   -- 根据像素模糊查找打卡按钮
   x1,y1 = findMultiColorInRegionFuzzy( 0x5e97f6, "0|-8|0xffffff,0|-12|0x5e97f6,4|6|0xffffff,9|13|0xb0ccfb,9|2|0x5e97f6,20|2|0xffffff,20|19|0xbad2fb,-3|19|0xffffff,-18|-8|0xffffff", 90, 0, 0, 719, 1279);  
   if x1 ~= -1 and y1 ~= -1 then
