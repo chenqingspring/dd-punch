@@ -67,3 +67,8 @@
 * 替换脚本里的 `findMultiColorInRegionFuzzy` 方法对应的x和y坐标的值
 * 如果有问题，请开issue
 * 如果你想联系作者 QQ:33227329
+
+### 如果你想请我一杯咖啡
+
+<img src="./pay-me-a-cup-of-coffee.jpeg" height="500">
+>>>>>>> add wechat payment qrcode
