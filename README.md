@@ -70,5 +70,4 @@
 
 ### 如果你想请我一杯咖啡
 
-<img src="./pay-me-a-cup-of-coffee.jpeg" height="500">
->>>>>>> add wechat payment qrcode
+<img src="./pay-me-a-cup-of-coffee.jpeg" height="300">
