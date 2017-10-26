@@ -20,7 +20,7 @@
 
 ### 准备
 1. 一台android手机，需要root
-2. 安装触动精灵android版
+2. 安装触动精灵android版, APKs目录里面有安装包
 3. 当然如果没有钉钉，你现在也不会看到这儿
     
 ### 安装方法一：手动
@@ -70,4 +70,4 @@
 
 ### 如果你想请我一杯咖啡
 
-<img src="./pay-me-a-cup-of-coffee.jpeg" height="300">
+<img src="./buy-me-a-cup-of-coffee.jpeg" height="300">
