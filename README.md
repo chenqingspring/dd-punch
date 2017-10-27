@@ -43,7 +43,12 @@
 ![下班打卡二维码](./punch-out/qrcode.png)
 
 
-### 真相
+### 真相 57s
+
+<video src="auto-punch.mp4" controls="controls" autoplay muted loop height="500"></video>
+
+### 成功日志
+
 <img src="./punch1.png" height="500">
 <img src="./punch2.png" height="500">
 
