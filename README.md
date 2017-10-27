@@ -45,12 +45,12 @@
 
 ### 真相 57s
 
-<video src="auto-punch.mp4" controls="controls" autoplay muted loop height="500"></video>
+<img src="./assets/auto-punch.gif" height="500">
 
-### 成功日志
+### 打卡记录
 
-<img src="./punch1.png" height="500">
-<img src="./punch2.png" height="500">
+<img src="./assets/punch1.png" height="500">
+<img src="./assets/punch2.png" height="500">
 
 ### 已测试软件版本
 
@@ -77,4 +77,4 @@
 
 ### 如果你想请我一杯咖啡
 
-<img src="./buy-me-a-cup-of-coffee.jpeg" height="300">
+<img src="./assets/buy-me-a-cup-of-coffee.jpeg" height="300">
