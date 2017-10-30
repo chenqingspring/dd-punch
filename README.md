@@ -43,9 +43,9 @@
 ![下班打卡二维码](./punch-out/qrcode.png)
 
 
-### 真相 57s
+### 真相 (点击57s视频)
 
-<img src="./assets/auto-punch.gif" height="500">
+[![自动打卡视频](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4?vframe/png/offset/8/w/300/h/500)](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4)
 
 ### 打卡记录
 
