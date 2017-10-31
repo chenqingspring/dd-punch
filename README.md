@@ -45,9 +45,7 @@
 
 ### 真相 (点击57s视频)
 
-<a href="http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4" target="_blank">
-	<img src="http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4?vframe/png/offset/8/w/300/h/500" height="500">
-</a>
+[![自动打卡视频](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4?vframe/png/offset/8/w/300/h/500)](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4){:target="_blank"}
 
 ### 打卡记录
 
