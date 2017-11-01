@@ -75,6 +75,6 @@
 * 如果有问题，请开issue
 * 如果你想联系作者 QQ:33227329
 
-### 如果你想请我一杯咖啡
+### 自由向来是一切财富中最昂贵的财富
 
 <img src="./assets/buy-me-a-cup-of-coffee.jpeg" height="300">
