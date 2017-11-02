@@ -22,7 +22,7 @@
 ### 准备
 1. 一台android手机，需要root
 2. 数据线和充电插头
-3. 安装触动精灵android版, APKs目录里面有安装包
+3. 安装[触动精灵](http://www.touchsprite.com/)android版
 4. 当然如果没有钉钉，你现在也不会看到这儿
     
 ### 安装方法一：手动
