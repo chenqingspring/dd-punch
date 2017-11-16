@@ -76,6 +76,8 @@
 
 ### 自由向来是一切财富中最昂贵的财富
 
+每个android手机型号有差异，请试用有效果后再赞赏！
+
 <img src="./assets/buy-me-a-cup-of-coffee.jpeg" height="300">
 
 ### 问题咨询
