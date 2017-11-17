@@ -27,8 +27,21 @@ function unlock()
   end
 end
 
+function vSlide(x, y1, y2)
+  for var = 1,3 do
+    touchDown(x, y1);
+    mSleep(30);
+    touchMove(x, y2);
+    mSleep(30);
+    touchUp(x, y2);
+    mSleep(500)
+  end
+end
+
 shake();
 unlock();
+mSleep(1000);
+vSlide(500, 900, 500);
 
 for var = 1,3 do
   runApp('com.alibaba.android.rimet');

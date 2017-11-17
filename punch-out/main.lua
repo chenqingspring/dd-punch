@@ -27,7 +27,7 @@ function unlock()
   end
 end
 
-function moveDown(x, y1, y2)
+function vSlide(x, y1, y2)
   for var = 1,3 do
     touchDown(x, y1);
     mSleep(30);
@@ -40,6 +40,8 @@ end
 
 shake();
 unlock();
+mSleep(1000);
+vSlide(500, 900, 500);
 
 for var = 1,3 do
   runApp('com.alibaba.android.rimet');
