@@ -75,7 +75,7 @@
 * 替换脚本里的 `findMultiColorInRegionFuzzy` 方法对应的x和y坐标的值
 
 ### 问题咨询
-* 如果有问题，请开issue
+* 如果有问题，请开[issue](https://github.com/chenqingspring/dd-punch/issues/new)
 
 ### 自由向来是一切财富中最昂贵的财富
 
