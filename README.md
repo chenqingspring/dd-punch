@@ -74,10 +74,9 @@
 * 获取『上/下班打卡』按钮坐标
 * 替换脚本里的 `findMultiColorInRegionFuzzy` 方法对应的x和y坐标的值
 
+### 问题咨询
+* 如果有问题，请开issue
+
 ### 自由向来是一切财富中最昂贵的财富
 
 <img src="./assets/buy-me-a-cup-of-coffee.jpeg" height="300">
-
-### 问题咨询
-* 如果有问题，请开issue
-* 赞赏时请记得留微信或QQ号，我会联系你
