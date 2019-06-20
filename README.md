@@ -45,7 +45,7 @@
 
 ### 真相 (点击57s视频)
 
-[![自动打卡视频](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4?vframe/png/offset/8/w/300/h/500)](http://oc3jbxa3r.bkt.clouddn.com/auto-punch.mp4)
+[![自动打卡视频](http://den-cdn.hohomall.com/auto-punch.mp4?vframe/png/offset/8/w/300/h/500)](http://den-cdn.hohomall.com/auto-punch.mp4)
 
 ### 打卡记录
 
